@@ -1,0 +1,9 @@
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Source\CardinalMenu\CardinalMenu.Build.cs
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\GamepadUMGPlugin\Plugins\GamepadUMGPlugin\Source\GamepadUMGPlugin\GamepadUMGPlugin.Build.cs
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\LoadingScreen\Source\LoadingScreen\LoadingScreen.Build.cs
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\VictoryPlugin\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Source\CardinalMenu.Target.cs
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Source\CardinalMenuEditor.Target.cs
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Source\CardinalMenuServer.Target.cs

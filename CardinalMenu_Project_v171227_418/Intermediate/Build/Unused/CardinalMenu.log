@@ -1,0 +1,59 @@
+﻿  Cleaning CardinalMenuEditor Binaries...
+  Creating makefile for CardinalMenuEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for CardinalMenuEditor
+    Running UnrealHeaderTool "C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\CardinalMenu.uproject" "C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Intermediate\Build\Win64\CardinalMenuEditor\Development\CardinalMenuEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for CardinalMenuEditor in 6.4202864 seconds
+  Performing 34 actions (4 in parallel)
+  [4/34] Resource PCLaunch.rc
+  [2/34] Resource ModuleVersionResource.rc.inl
+  SharedPCH.Engine.cpp
+  PCH.CardinalMenu.cpp
+  [5/34] Resource PCLaunch.rc
+  [6/34] Resource PCLaunch.rc
+  [7/34] Resource PCLaunch.rc
+  [8/34] Resource PCLaunch.rc
+  [9/34] Resource PCLaunch.rc
+  Module.AdvancedSessions.gen.cpp
+  Module.AdvancedSessions.cpp
+  Module.GamepadUMGPlugin.gen.cpp
+  Module.GamepadUMGPlugin.cpp
+  [14/34] Link UE4Editor-AdvancedSessions.lib
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSessions.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSessions.exp
+  Module.AdvancedSteamSessions.gen.cpp
+  CardinalMenu.cpp
+  EmptyClass.cpp
+  Module.LoadingScreen.gen.cpp
+  Module.LoadingScreen.cpp
+  Module.VictoryBPLibrary.gen.2_of_2.cpp
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\GamepadUMGPlugin\Plugins\GamepadUMGPlugin\Source\GamepadUMGPlugin\Private\GameAnalogCursor.cpp(27): warning C4996: 'FSlateApplication::SetInputPreProcessor': SetInputPreProcessor(...) is deprecated. Use RegisterInputPreProcessor(...) and/or UnregisterInputPreProcessor(...) / UnregisterAllInputPreProcessors(...) instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h(1249): note: see declaration of 'FSlateApplication::SetInputPreProcessor'
+C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\GamepadUMGPlugin\Plugins\GamepadUMGPlugin\Source\GamepadUMGPlugin\Private\GameAnalogCursor.cpp(48): warning C4996: 'FSlateApplication::SetInputPreProcessor': SetInputPreProcessor(...) is deprecated. Use RegisterInputPreProcessor(...) and/or UnregisterInputPreProcessor(...) / UnregisterAllInputPreProcessors(...) instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h(1249): note: see declaration of 'FSlateApplication::SetInputPreProcessor'
+  Module.VictoryBPLibrary.gen.1_of_2.cpp
+  Module.VictoryBPLibrary.cpp
+  Module.AdvancedSteamSessions.cpp
+  [24/34] Link UE4Editor-CardinalMenu.dll
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CardinalMenu.suppressed.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CardinalMenu.suppressed.exp
+  [25/34] Link UE4Editor-AdvancedSessions.dll
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSessions.suppressed.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSessions.suppressed.exp
+  [26/34] Link UE4Editor-GamepadUMGPlugin.dll
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\GamepadUMGPlugin\Plugins\GamepadUMGPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GamepadUMGPlugin.suppressed.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\GamepadUMGPlugin\Plugins\GamepadUMGPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GamepadUMGPlugin.suppressed.exp
+  [27/34] Link UE4Editor-LoadingScreen.dll
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\LoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LoadingScreen.suppressed.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\LoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LoadingScreen.suppressed.exp
+  [28/34] Link UE4Editor-CardinalMenu.lib
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CardinalMenu.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CardinalMenu.exp
+  [29/34] Link UE4Editor-LoadingScreen.lib
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\LoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LoadingScreen.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\LoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LoadingScreen.exp
+  [30/34] Link UE4Editor-GamepadUMGPlugin.lib
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\GamepadUMGPlugin\Plugins\GamepadUMGPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GamepadUMGPlugin.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\GamepadUMGPlugin\Plugins\GamepadUMGPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GamepadUMGPlugin.exp
+  [31/34] Link UE4Editor-AdvancedSteamSessions.dll
+  [32/34] Link UE4Editor-AdvancedSteamSessions.lib
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.exp
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.suppressed.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AdvancedSteamSessions.suppressed.exp
+  [33/34] Link UE4Editor-VictoryBPLibrary.dll
+  [34/34] Link UE4Editor-VictoryBPLibrary.lib
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\VictoryPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryBPLibrary.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\VictoryPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryBPLibrary.exp
+     Creating library C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\VictoryPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryBPLibrary.suppressed.lib and object C:\Users\peter\Documents\Unreal Projects\MultiplayerTest\CardinalMenu_Project_v171227_418\Plugins\VictoryPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VictoryBPLibrary.suppressed.exp
+  Deploying CardinalMenuEditor Win64 Development...
+  Total build time: 68.12 seconds (Local executor: 57.00 seconds)
